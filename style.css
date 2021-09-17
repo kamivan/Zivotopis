@@ -4,7 +4,7 @@ body  {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;      
     line-height: 1.5;
-    margin: 0;
+    margin: 30px;
     }
 
 h1 {
@@ -15,6 +15,9 @@ h1 {
 
 h2{
     color: rgb(118, 113, 113);
+    text-align: left;
+    display: inline;    
+   
 
 }
 
@@ -34,8 +37,9 @@ h4 {
     width: 170px;
     border-radius: 50%;
     float: left;
-    margin-left: 20px;
-    margin-bottom: 0;
+    margin-right: 30px;
+    margin-bottom: 30px;
+
     overflow: auto
   
     
@@ -43,5 +47,10 @@ h4 {
 
 .fotoja {
     clear: right;
+
+}
+
+section {
+padding: 50px 15%;
 
 }
