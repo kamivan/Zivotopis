@@ -41,16 +41,28 @@ h4 {
     margin-bottom: 30px;
 
     overflow: auto
-  
+    
     
 }
 
-.fotoja {
-    clear: right;
-
+.CV {
+    color: rgb(40, 38, 51);
 }
 
 section {
 padding: 50px 15%;
 
+}
+
+.jmenoNadpis {
+    text-align: left;
+
+}
+
+.personalie, .WorkExperience, .Education{
+    padding-bottom: 0px;
+}
+
+.DigitalSkills{
+    margin-bottom: 60px;
 }
