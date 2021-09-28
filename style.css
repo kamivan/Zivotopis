@@ -59,10 +59,33 @@ padding: 50px 15%;
 
 }
 
-.personalie, .WorkExperience, .Education{
+.personalie {
+    padding-top: 0;
+}
+
+.personalie, .WorkExperience, .Education {
     padding-bottom: 0px;
 }
 
-.DigitalSkills{
+.DigitalSkills {
     margin-bottom: 60px;
+}
+
+.menu li {
+    display: inline-block;
+}
+
+.menu {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(89, 89, 89);
+    display: inline-block;
+    text-align: center;
+}
+
+.menu a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 60px;
+    display: inline-block;
 }
