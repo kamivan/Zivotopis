@@ -77,10 +77,11 @@ padding: 50px 15%;
 
 .menu {
     margin: 0;
-    padding: 0;
     background-color: rgb(89, 89, 89);
     display: inline-block;
     text-align: center;
+    padding: 10px 15%;
+
 }
 
 .menu a {
